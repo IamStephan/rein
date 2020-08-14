@@ -14,7 +14,7 @@ with open('erpnext/__init__.py', 'rb') as f:
 		f.read().decode('utf-8')).group(1)))
 
 setup(
-	name='erpnext',
+	name='rein',
 	version=version,
 	description='Open Source ERP',
 	author='Frappe Technologies',
